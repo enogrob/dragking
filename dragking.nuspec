@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>dragking</id>
+    <title>dragking (Install)</title>
+    <authors>Garrett LeSage</authors>
+    <owners>Roberto Nogueira</owners>
+    <summary>Automatically copies mouse selections to the clipboard. Reports the number of copied characters, words and lines.</summary>
+    <description>
+Automatically copies mouse selections to the clipboard. Reports the number of copied characters, words and lines.
+
+Features:
+- User defined delimiter settings. 
+- Doubleclick the tray icon to disable/enable. 
+    </description>
+    <projectUrl>http://www.donationcoder.com/Software/Skrommel/index.html#DragKing</projectUrl>
+    <tags>dragking auto copy mouse selections</tags>
+    <copyright>Donationcoder</copyright>
+    <licenseUrl>http://www.donationcoder.com/Software/Skrommel/index.html#DragKing</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/enogrob/dragking/master/dragking.png</iconUrl>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
