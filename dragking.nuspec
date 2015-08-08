@@ -5,6 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>dragking</id>
     <title>dragking (Install)</title>
+    <version>1.3</version>
     <authors>Garrett LeSage</authors>
     <owners>Roberto Nogueira</owners>
     <summary>Automatically copies mouse selections to the clipboard. Reports the number of copied characters, words and lines.</summary>
@@ -16,6 +17,7 @@ Features:
 - Doubleclick the tray icon to disable/enable. 
     </description>
     <projectUrl>http://www.donationcoder.com/Software/Skrommel/index.html#DragKing</projectUrl>
+    <packageSourceUrl>http://www.donationcoder.com/Software/Skrommel/DragKing/DragKing.ahk</packageSourceUrl>
     <tags>dragking auto copy mouse selections</tags>
     <copyright>Donationcoder</copyright>
     <licenseUrl>http://www.donationcoder.com/Software/Skrommel/index.html#DragKing</licenseUrl>
