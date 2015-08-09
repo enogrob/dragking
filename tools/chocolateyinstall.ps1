@@ -1,4 +1,7 @@
-﻿$name = 'dragking'
-$url = 'https://github.com/enogrob/dragking/blob/master/dragking-1.3.zip'
-$path = Get-BinRoot
-Install-ChocolateyZipPackage $name $url $path
+﻿
+$name = 'dragking'
+$url = 'https://github.com/enogrob/dragking/raw/master/dragking-1.3.zip'
+$installDir = $env:ChocolateyInstall\bin
+
+Install-ChocolateyZipPackage $name $url $installDir
+

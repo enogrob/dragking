@@ -6,7 +6,7 @@
     <id>dragking</id>
     <title>dragking (Install)</title>
     <version>1.3</version>
-    <authors>Garrett LeSage</authors>
+    <authors>DonationCoder</authors>
     <owners>Roberto Nogueira</owners>
     <summary>Automatically copies mouse selections to the clipboard. Reports the number of copied characters, words and lines.</summary>
     <description>
@@ -19,7 +19,7 @@ Features:
     <projectUrl>http://www.donationcoder.com/Software/Skrommel/index.html#DragKing</projectUrl>
     <packageSourceUrl>http://www.donationcoder.com/Software/Skrommel/DragKing/DragKing.ahk</packageSourceUrl>
     <tags>dragking auto copy mouse selections</tags>
-    <copyright>Donationcoder</copyright>
+    <copyright>DonationCoder</copyright>
     <licenseUrl>http://www.donationcoder.com/Software/Skrommel/index.html#DragKing</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/enogrob/dragking/master/dragking.png</iconUrl>
