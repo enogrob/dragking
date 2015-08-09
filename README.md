@@ -2,8 +2,8 @@
 
 ![dragking logo](images/dragking.png)
 
-![Download][(images/Download.gif)] (http://www.donationcoder.com/Software/Skrommel/RecentRun/RecentRun.exe)
-![Source][(images/AHK.gif)] (http://www.donationcoder.com/Software/Skrommel/DragKing/DragKing.ahk) 205KB
+[![Download] (images/Download.gif)] (http://www.donationcoder.com/Software/Skrommel/RecentRun/RecentRun.exe)
+[![Source] (images/AHK.gif)] (http://www.donationcoder.com/Software/Skrommel/DragKing/DragKing.ahk) 205KB
 
 Automatically copies mouse selections to the clipboard. Reports the number of copied characters, words and lines. 
 
